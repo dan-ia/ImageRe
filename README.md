@@ -101,7 +101,7 @@ You can use your system's default terminal/console to execute the commands, but 
 
 ````bash
     # Go from folder to folder until you reach the project's main folder:
-    cd ../ImageCompression
+    cd ../ImageResize
 
     # Use ls to view available folders
     ls
